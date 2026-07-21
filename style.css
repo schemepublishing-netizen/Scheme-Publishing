@@ -37,3 +37,11 @@ body {
     align-items: center;
     height: 100vh;
 }
+
+.h1-header {
+    font-size: 100px;
+}
+
+.p-header {
+     font-size: 50px;
+}
