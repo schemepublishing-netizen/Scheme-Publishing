@@ -1,0 +1,39 @@
+*, 
+html {
+    margin: 0px;
+    padding: 0px:
+}
+
+body {
+    background-color: white;
+}
+
+.navbar {
+    background-color: rgb(33, 32, 41)
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: right;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+
+.li-navbar:hover {
+    background-color: rgb(121, 201, 121)
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
