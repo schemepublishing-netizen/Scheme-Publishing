@@ -49,6 +49,8 @@ body {
 @media (max-widht: 768px) {
     h1 {
         font-size: 20px;
+        justify-content: center;
+        align-items: center;
     }
 
     .box {
